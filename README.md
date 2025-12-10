@@ -1,5 +1,5 @@
 # Abrarur Network and System Security Portfolio
-Portfolio of workshops completed during the course of my Networks and Security Module.
+Portfolio of workshops completed during the course of my Networks and Systems Security module.
 
 Name: Abrarur Rahaman Bhuiyan
 
