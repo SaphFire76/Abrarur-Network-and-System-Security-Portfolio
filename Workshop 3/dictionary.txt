@@ -1,0 +1,12 @@
+abacus
+animal
+interior
+cow
+flying
+table
+password123
+cat
+dog
+horse
+pig
+lion
